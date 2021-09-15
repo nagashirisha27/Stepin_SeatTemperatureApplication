@@ -1,6 +1,7 @@
 # Stepin_SeatTemperatureApplication
 CASESTUDY:
 
+![CASE STUDY](simulation/CaseStudy.PNG)
 # Badges:
 |CODE INSPECTOR SCORE|CODE INSPECTOR CODE QUALITY|Codacy|CPP CHECK|
 |:--:|:--:|:--:|:--:|
