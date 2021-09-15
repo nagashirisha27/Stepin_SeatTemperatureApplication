@@ -1,7 +1,7 @@
 # Stepin_SeatTemperatureApplication
 
 ## CASESTUDY:
-![CASE STUDY](simulation/CaseStudy.PNG)
+![CASE STUDY](simulation/CaseStudy.PNG)![TempRule](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempRule.PNG)
 
 # Activity_1:
 
