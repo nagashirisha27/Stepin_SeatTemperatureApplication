@@ -1,4 +1,4 @@
-﻿## Introduction:
+## Introduction
 The system showcases a style for any sort of automotive controlled-heating part like seat heating, climate management, defrosting, glow plugs, and tank heaters. The planning consists of a main board and heating part, that represents the resistive heating part found in automotive seat heaters, demonstrating the power to severally management the temperature of every seat further as offer sturdy diagnostics and protection to account for fault events.
 ## Objective
 The main objectives of this project are:
@@ -8,8 +8,7 @@ The main objectives of this project are:
 ## SWOT ANALYSIS
 ![SWOT](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/SWOT.png)
 
-
-## **4 W's and 1 H**
+## 4 W's and 1 H
 ### Who
 Anyone who are in need of these seat heating technique.
 
@@ -27,7 +26,7 @@ As this project uses Embedded C which is both hardware and software. It is easy 
 
 Implemented using Embedded C programming loaded in Atmega328 microcontroller.
 
-## Basic requirements that very essential are:
+## Basic requirements that very essential are
 
 ### HIGH LEVEL REQUIREMENT
 |ID|DESCRIPTION|
