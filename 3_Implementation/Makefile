@@ -10,7 +10,7 @@ SRC =3_Implementation/main.c\
 
 
 # All header file paths
-INC =3_Implementation/inc/buttonsensor.h\
+INC =-I3_Implementation/inc/buttonsensor.h\
 3_Implementation/inc/tempsensor.h\
 3_Implementation/inc/pwm.h
 
