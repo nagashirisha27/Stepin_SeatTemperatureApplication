@@ -3,14 +3,14 @@ PROJ_NAME = Stepin_SeatTemperatureApplication
 BUILD_DIR = Build
 
 # All Source code files
-SRC =3_Implementation/main.c\
-3_Implementation/src/buttonsensor.c\
-3_Implementation/src/pwm.c\
-3_Implementation/src/tempsensor.c
+SRC =main.c\
+src/buttonsensor.c\
+src/pwm.c\
+src/tempsensor.c
 
 
 # All header file paths
-INC = -I3_implementation/inc\
+INC = -I inc
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
