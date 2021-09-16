@@ -26,6 +26,6 @@
 |![70%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(3.25v)70%25temp.PNG)|![95%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(5v)95%25temp.PNG)|
 
 ## Badges
-|Build|CODE INSPECTOR SCORE|CODE INSPECTOR CODE QUALITY|Codacy|CPP CHECK|
+|Build|CPP CHECK|CODE INSPECTOR SCORE|CODE INSPECTOR CODE QUALITY|Codacy|
 |:--:|:--:|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/actions/workflows/Compile.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/actions/workflows/Compile.yml)|![CodeQualityScore](https://www.code-inspector.com/project/28703/score/svg)|![CodeGrade](https://www.code-inspector.com/project/28703/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3ac72a9093bb45d5a39b3d80bcdd5b7b)](https://www.codacy.com/gh/nagashirisha27/Stepin_SeatTemperatureApplication/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nagashirisha27/Stepin_SeatTemperatureApplication&amp;utm_campaign=Badge_Grade)|[![Cppcheck](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/actions/workflows/CodeQulaity.yml/badge.svg)](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/actions/workflows/CodeQulaity.yml)|
+|     | |![CodeInspectorScore](https://www.code-inspector.com/project/28703/score/svg) |![CodeGrade](https://www.code-inspector.com/project/28703/status/svg) |   |
