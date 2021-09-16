@@ -30,14 +30,14 @@ Implemented using Embedded C programming loaded in Atmega328 microcontroller.
 
 ### HIGH LEVEL REQUIREMENT
 |ID|DESCRIPTION|
-|:--:|:--|
+|:--:|:--:|
 |HR01|Atmega328 microcontroller which is used for this project implementation| 
 |HR02|Potentiometer which is used to change the temperature|
 |HR03|Heating element|
 
 ### LOW LEVEL REQUIREMENT
 |ID|DESCRIPTION|
-|:--:|:--|
+|:--:|:--:|
 |LR01|Display the change in temperature i.e. CRO|
 
 
