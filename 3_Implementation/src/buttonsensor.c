@@ -1,3 +1,14 @@
+/**
+ * @file buttonsensor.c
+ * @author PONNOJU NAGASHIRISHA(nagashirisha27@gmail.com)
+ * @brief User defined utilities, to define pins and ports to Blink an LED ON/OFF 
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #include "buttonsensor.h"
 
 void peripheral_init(void)
@@ -20,10 +31,10 @@ void TurnLED_OFF(){
 }
 
 int act1=0;
-int activity1_LED(void)
+int buttonsensor_LED(void)
 {
        peripheral_init();
-        if(!(PIND&(1<<BUTTON_SENSOR )) && !(PIND&(1<<TEMP_SENSOR))) //both the switches are pressed
+        if(!(PIND&(1<<BUTTON_SENSOR )) && !(PIND&(1<<TEMP_SENSOR))) // both the switches are pressed
         {
             act1=1;
         }

@@ -3,10 +3,10 @@ PROJ_NAME = Stepin_SeatTemperatureApplication
 BUILD_DIR = Build
 
 # All Source code files
-SRC = main.c\
-src/buttonsensor.c\
-src/pwm.c\
-src/tempsensor.c
+SRC = Implementation/main.c\
+Implementation/src/buttonsensor.c\
+Implementation/src/pwm.c\
+Implementation/src/tempsensor.c
 
 
 #Object copy to create hexfile

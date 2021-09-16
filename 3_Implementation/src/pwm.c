@@ -1,3 +1,13 @@
+/**
+ * @file pwm.c
+ * @author PONNOJU NAGASHIRISHA(nagashirisha27@gmail.com)
+ * @brief Functions to convert the ADC value to corresponding PWM 
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "pwm.h"
 #include "tempsensor.h"
 

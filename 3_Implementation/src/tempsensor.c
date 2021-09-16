@@ -1,3 +1,13 @@
+/**
+ * @file tempsensor.c
+ * @author PONNOJU NAGASHIRISHA(nagashirisha27@gmail.com)
+ * @brief Functions to get the ADC values
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #include "tempsensor.h"
 
 void InitADC()

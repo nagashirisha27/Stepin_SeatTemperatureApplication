@@ -1,3 +1,14 @@
+/**
+ * @file main.c
+ * @author PONNOJU NAGASHIRISHA(nagashirisha27@gmail.com)
+ * @brief Heat Seating Application to set Temperature of seat 
+ * @version 0.1
+ * @date 2021-09-16
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
+
 #include "buttonsensor.h"
 #include "tempsensor.h"
 #include "pwm.h"
