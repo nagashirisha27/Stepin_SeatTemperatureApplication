@@ -10,7 +10,7 @@ SRC =3_Implementation/main.c\
 
 
 # All header file paths
-INC = -I 3_Implementation/inc
+INC = -I3_Implementation/inc\
 
 # Find out the OS and configure the variables accordingly
 ifdef OS	# All configurations for Windwos OS
