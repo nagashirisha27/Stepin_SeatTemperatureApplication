@@ -6,7 +6,7 @@
 |TP3|ADC Value|0|20 degree Celsius| PASS|
 |TP4|ADC Value|420|25 degree Celsius| PASS|
 |TP5|ADC Value|664|29 degree Celsius| PASS|
-|TP4|ADC Value|1022|33 degree Celsius| PASS|
+|TP6|ADC Value|1022|33 degree Celsius| PASS|
 
 
 
