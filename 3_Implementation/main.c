@@ -19,7 +19,7 @@ int main(void)
     {
         uint16_t temp;
 
-        if(activity1_LED()==1) //Check if both the switches are pressed
+        if(buttonsensor_LED()==1) //Check if both the switches are pressed
         {
 
             TurnLED_ON();//Turn LED ON
