@@ -1,29 +1,29 @@
 # Stepin_SeatTemperatureApplication
 
 ## CASESTUDY
-![CASE STUDY](simulation/CaseStudy.PNG)![TempRule](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempRule.PNG)
+![CASE STUDY](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/CaseStudy.PNG)![TempRule](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/TempRule.PNG)
 
 ## Activity_1
 
 |OFF,OFF|OFF,ON|
 |:--:|:--:|
-|![OFF,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/ButtonSensorImages/ButtonSensor(OFF%2COFF).png)|![OFF,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/ButtonSensorImages/ButtonSensor(OFF%2CON).png)|
+|![OFF,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/ButtonSensorImages/ButtonSensor(OFF%2COFF).png)|![OFF,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/ButtonSensorImages/ButtonSensor(OFF%2CON).png)|
 |ON,OFF|ON,ON|
-|![ON,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/ButtonSensorImages/ButtonSensor(ON%2COFF).png)|![ON,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/ButtonSensorImages/ButtonSensor(ON%2CON).png)|
+|![ON,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/ButtonSensorImages/ButtonSensor(ON%2COFF).png)|![ON,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/ButtonSensorImages/ButtonSensor(ON%2CON).png)|
 
 ## Activity_2
 |OFF,OFF,OFF|OFF,OFF,ON|
 |:--:|:--:|
-|![OFF,OFF,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempSensor/Temo(OFF%2COFF%2COFF).PNG)|![OFF,OFF,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempSensor/Temp(OFF%2COFF%2CON).PNG)|
+|![OFF,OFF,OFF](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/TempSensor/Temo(OFF%2COFF%2COFF).PNG)|![OFF,OFF,ON](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/TempSensor/Temp(OFF%2COFF%2CON).PNG)|
 |ON,ON,ON-2.5V|ON,ON,ON-5V|
-|![ON,ON,ON-2V](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempSensor/Temp(ON%2CON%2CON-2.5v).PNG)|![ON,ON,ON-5V](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/TempSensor/Temp(ON%2CON%2CON-5v).PNG)|
+|![ON,ON,ON-2V](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/TempSensor/Temp(ON%2CON%2CON-2.5v).PNG)|![ON,ON,ON-5V](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/TempSensor/Temp(ON%2CON%2CON-5v).PNG)|
 
 ## Activity_3
 |PWM_20%|PWM_40%|
 |:--:|:--:|
-|![20%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/PWM/PWM(0v)20%25temp.PNG)|![40%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/PWM/PWM(2.05v)40%25temp.PNG)|
+|![20%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(0v)20%25temp.PNG)|![40%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(2.05v)40%25temp.PNG)|
 |PWM_70%|PWM_95%|
-|![70%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/PWM/PWM(3.25v)70%25temp.PNG)|![95%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/simulation/PWM/PWM(5v)95%25temp.PNG)|
+|![70%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(3.25v)70%25temp.PNG)|![95%](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/simulation/PWM/PWM(5v)95%25temp.PNG)|
 
 ## Badges
 |Build|CODE INSPECTOR SCORE|CODE INSPECTOR CODE QUALITY|Codacy|CPP CHECK|
