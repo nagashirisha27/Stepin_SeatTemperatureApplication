@@ -10,9 +10,7 @@ SRC =3_Implementation/main.c\
 
 
 # All header file paths
-INC =-I3_Implementation/inc/buttonsensor.h\
-3_Implementation/inc/tempsensor.h\
-3_Implementation/inc/pwm.h
+INC = -I inc
 
 
 # Find out the OS and configure the variables accordingly
@@ -39,7 +37,7 @@ endif
 
 all:$(BUILD_DIR)
 # Compile the code and generate the ELF file
-	$(CC) -g -Wall -Os -mmcu=atmega328  $(INC) $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
+	$(CC) -g -Wall -Os -mmcu=atmega328  $(INC)buttonsensor.h tempsensor.h pwm.h $(SRC) -o $(call FixPath,$(BUILD_DIR)/$(PROJ_NAME).elf)
 
 $(BUILD_DIR):
 # Create directory to store the built files
