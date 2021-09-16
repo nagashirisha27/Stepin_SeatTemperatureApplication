@@ -6,7 +6,7 @@ The main objectives of this project are:
 -   To perform operations that is change in temperature according to the request of the person.
 
 ## SWOT ANALYSIS
-![SWOT]()
+![SWOT](https://github.com/nagashirisha27/Stepin_SeatTemperatureApplication/blob/master/6_ImagesAndVideos/SWOT.png)
 
 
 ## **4 W's and 1 H**
